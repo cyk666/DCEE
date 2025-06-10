@@ -1,2 +1,2 @@
 # DCEE
-The document-level cybersecurity event extraction.
+The dataset for document-level cybersecurity event extraction.
